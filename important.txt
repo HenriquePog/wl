@@ -7,6 +7,15 @@ shinnnzxz -- @1227712098319077397 Expiration - 17/06
 arthur_leites -- <@1020664756190838836> Expiration - 17/06
 
 Premium: 
-NwastedbyTnXh -- Perm Acess
-LINKINP7 -- Perm Acess
-NotFoundSkills --  @1230313120761905184 - 17/06
+    "wastedbyTnXh", -- Perm Acess
+    "LINKINP7", -- Perm Acess
+    "NotFoundSkills", --  <@1230313120761905184> - 17/06
+    "BottomSpanish", --   <@1094513617719799838> - 17/96
+    "anjinhoxxl", --      <@1112683224238395473> - 18/06
+    "kaushalhps", --      <@769185675589189633>  - 18/06
+    "AmHEd700", --        <@710591589004738591>  - 18/06
+    "wastedluna", --      <@1056096622485979206> - 19/06 Quando Tirar Boost!!
+    "st3phessi", --       <@1165943555605401600> - 19/06
+    "XzeoX_YTB", --       <@1225550151230423083> - 19/06
+    "gufofinho678", --    <@1044797879660838922> - 19/06
+    "lsoslsny",  --       <@1091790137916137603> - 19/06 Quando Tirar Boost!!
